@@ -1,4 +1,7 @@
 package com.leo.Spring_takeout;
 
-public class takeoutSign {
+public class takeoutS {
+    public void func(){
+        System.out.println("func1");
+    }
 }
