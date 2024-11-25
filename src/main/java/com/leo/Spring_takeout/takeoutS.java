@@ -2,6 +2,6 @@ package com.leo.Spring_takeout;
 
 public class takeoutS {
     public void func(){
-        System.out.println("func1 and fun2");
+        System.out.println("gitee_takeout_master and github_takeout_master");
     }
 }
